@@ -1,0 +1,5 @@
+venv/
+data/
+*.pickle
+*.p
+__pycache__/
